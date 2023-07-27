@@ -13,13 +13,13 @@
 
 - 👨‍💻 Project Showcase :- [Visit Projects](https://cheery-phoenix-820af0.netlify.app/)
 
-- 📝 My Portfolio :- [Visit Portfolio](https://cheery-phoenix-820af0.netlify.app/)
-
 - 💬 Ask me about :- **JavaScript, ReactJS, NextJS, Tailwind, Bootstrap, HTML5, CSS3**
 
 - 🌱 I’m currently learning :- **Redux, NextJS, TypeScript**
 
 - 📫 Email ME :- **ashaduzzamansojib67@gmail.com**
+
+- 📝 My Portfolio :- [Visit Portfolio](https://cheery-phoenix-820af0.netlify.app/)
 
 - 📄 My Resume Doc :- [View Resume](https://drive.google.com/file/d/1ur9YsDz0h-fv8Kz3iZI6AKzLVt3mJymi/view)
 
