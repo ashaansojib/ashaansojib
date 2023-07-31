@@ -19,7 +19,7 @@
 
 - 📫 Email ME :- **ashaduzzamansojib67@gmail.com**
 
-- 📝 My Portfolio :- [Visit Portfolio](https://cheery-phoenix-820af0.netlify.app/)
+- 📝 My Portfolio :- <a href="https://cheery-phoenix-820af0.netlify.app/" target="_blank">Visit Portfolio</a>
 
 - 📄 My Resume Doc :- [View Resume](https://drive.google.com/file/d/1ur9YsDz0h-fv8Kz3iZI6AKzLVt3mJymi/view)
 
