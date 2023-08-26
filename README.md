@@ -11,7 +11,7 @@
 
 - 🤝 Toy_Shop(E-commerce) :- [Toy_Shop](https://toy-shop-c3c3c.web.app/)
 
-- 👨‍💻 Project Showcase :- [Visit Projects](https://cheery-phoenix-820af0.netlify.app/)
+- 👨‍💻 Project Showcase :- [Visit Projects](https://ashaduzzaman-sojib.netlify.app/)
 
 - 💬 Ask me about :- **JavaScript, ReactJS, NextJS, Tailwind, Bootstrap, HTML5, CSS3**
 
@@ -19,7 +19,7 @@
 
 - 📫 Email ME :- **ashaduzzamansojib67@gmail.com**
 
-- 📝 My Portfolio :- <a href="https://cheery-phoenix-820af0.netlify.app/" target="_blank">Visit Portfolio</a>
+- 📝 My Portfolio :- <a href="https://ashaduzzaman-sojib.netlify.app/" target="_blank">Visit Portfolio</a>
 
 - 📄 My Resume Doc :- [View Resume](https://drive.google.com/file/d/1ur9YsDz0h-fv8Kz3iZI6AKzLVt3mJymi/view)
 
